@@ -4,7 +4,7 @@
 ![Rank](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/wat-yuichi/the-folded-translation/rank.svg)
 ![Reward](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/wat-yuichi/the-folded-translation/reward.svg)
 
-A one-line entry for [One Line of Earned Pride](https://make.fun/competitions/u-mang-one-line-of-earned-pride-a0138557).
+A one-line entry for make.fun's [One Line of Earned Pride](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557).
 
 ## Run
 
